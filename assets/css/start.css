@@ -1,0 +1,23 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.start-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.choices {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+#question {
+    font-size: 40px;
+}
+
+.btn {
+    margin: 10px auto;
+}
